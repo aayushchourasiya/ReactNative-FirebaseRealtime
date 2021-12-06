@@ -1,0 +1,429 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from [com.facebook.flipper:flipper:0.99.0] /home/thoughtwin/.gradle/caches/transforms-3/59f19c6d35831d9d4c4d9a58176f3240/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] /home/thoughtwin/.gradle/caches/transforms-3/a61f465ec61a6fb822315f5fa32dca2f/transformed/jetified-flipper-network-plugin-0.99.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] /home/thoughtwin/.gradle/caches/transforms-3/2083fcca49e3a45f14cdf2ab4e6a4e38/transformed/jetified-flipper-fresco-plugin-0.99.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-firebase_database] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-27:12
+MERGED from [com.facebook.react:react-native:0.66.3] /home/thoughtwin/.gradle/caches/transforms-3/a0283b13420092b849e80bf174a0356c/transformed/jetified-react-native-0.66.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/748a0fc500bd975d4c1589d538ed337d/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r250230] /home/thoughtwin/.gradle/caches/transforms-3/9d4c0e116c120588f4889941574ea042/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:20.0.2] /home/thoughtwin/.gradle/caches/transforms-3/5f49b9af9286ab6b7e429311d43049a9/transformed/jetified-firebase-database-20.0.2/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] /home/thoughtwin/.gradle/caches/transforms-3/daf7b45bddae2fab64f479a473f01baf/transformed/jetified-firebase-appcheck-interop-16.0.0-beta02/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/thoughtwin/.gradle/caches/transforms-3/07a5ca694e3feaf20ec300612973ef99/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/thoughtwin/.gradle/caches/transforms-3/232adb69094c4b93f7bcf2428f836470/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.facebook.fresco:flipper:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/b7da3da98d27fcccc2f39d7a54c7bcfc/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/fa789a0b25b63cbaf13a4b3dbc3497e3/transformed/jetified-stetho-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/be25b2997f575d83bdfae628558d4556/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/b22698a3870b4e10f4ab6072d3c4b67d/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/6518e1b5124b02fb9e630bfa47c6aca4/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/a76ceaeaf903cbd791928677d9e27f0e/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/ef4618c9359874d66772386631379011/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/3ddbbbba7125fa64a0807b1826a8c847/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/3c681c447cb66c009c2dc25f722d8278/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/54e67d912562ec5b14dbed5e2140967f/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] /home/thoughtwin/.gradle/caches/transforms-3/218b8094b0283c1a4142941cff965f08/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/3e5fe0d47862ed8c371fd8a4104a6c3d/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/6df4982178b52e0edf93fdb26cc68480/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/e8f4f3b78139cd63149e9e9e64366c2b/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/3233e5e991aab73b6eb71f598e64f92b/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/thoughtwin/.gradle/caches/transforms-3/3b1833fdd1b8407bf21181eddd341ef7/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/thoughtwin/.gradle/caches/transforms-3/b32d22c6de2466a801c09e9c2c1dc9e6/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /home/thoughtwin/.gradle/caches/transforms-3/eefd9f3973054c8326a43ae1ae853774/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/83f8ac0e90e3a9ce366a12c6daa1545c/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/a422f7053ff1ad782a42802eb519662d/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/thoughtwin/.gradle/caches/transforms-3/a2b6193331fab132bc5486ca803dad7c/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/thoughtwin/.gradle/caches/transforms-3/a91704c2ea24663850fc3eaf6aa520d5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/ce403bda2f0f727fb063130af02a306b/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /home/thoughtwin/.gradle/caches/transforms-3/215ef86073f17a580d55962e9b61967d/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/thoughtwin/.gradle/caches/transforms-3/f16e55606662fe2bdbc3533955ee1685/transformed/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/thoughtwin/.gradle/caches/transforms-3/960554a7c2f3de5c3e4d091e076c77e9/transformed/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /home/thoughtwin/.gradle/caches/transforms-3/b77bb367c3a0cc3a2e37ee29b3b72b28/transformed/jetified-firebase-database-collection-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/thoughtwin/.gradle/caches/transforms-3/6312332a5c2e4ce7fcd84696fc65d8e8/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/thoughtwin/.gradle/caches/transforms-3/b38f15dbcc9a37e35c316393185bddbe/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/thoughtwin/.gradle/caches/transforms-3/8ac528d141471fc71a12b248b704a330/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] /home/thoughtwin/.gradle/caches/transforms-3/06bd8d23aecd48e4fed68020882a8139/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /home/thoughtwin/.gradle/caches/transforms-3/c516302736c977eff4551e107b66e078/transformed/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/380368a94e5125f960222ce469b9a538/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/a33df2175717de33aca2d838552c3ed9/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/a015809519413651e9931cff5670b25c/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/thoughtwin/.gradle/caches/transforms-3/e16c186123443f4bcbadb802d8f3e379/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/e1281fbf5a96d4c550042ca1151ccd63/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /home/thoughtwin/.gradle/caches/transforms-3/71c799383cfa13dda3e372aa9223b078/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/5a1e7fb8c6cfd5fe2ecaa08f847210e4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/thoughtwin/.gradle/caches/transforms-3/305bb247fed4214155458624e5592ae7/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/thoughtwin/.gradle/caches/transforms-3/3619916fe2818cd96ae75fd787a571ba/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/thoughtwin/.gradle/caches/transforms-3/bad437d8b1cae96f80f585c2c591b5f9/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/thoughtwin/.gradle/caches/transforms-3/27901bd9186e1d08c96cad20d04312d4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/thoughtwin/.gradle/caches/transforms-3/7953d711363ae1195044031c38c27ba3/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/thoughtwin/.gradle/caches/transforms-3/f0fdf6efa213768573a0bd21965b640d/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/thoughtwin/.gradle/caches/transforms-3/a872c80665146ff768d00086572e496b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/a5777b455809799d9dbb5e24c1aaf1a5/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/thoughtwin/.gradle/caches/transforms-3/8625cd31fa73afbeb5de1fc59af1127d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/thoughtwin/.gradle/caches/transforms-3/001a9c563d6baa56f2b8662f8bcaa19b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/thoughtwin/.gradle/caches/transforms-3/f17b83cdbb22e59c5b93d3df9e906d8c/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/0676611d8f83b88c3a97af50102e5dc3/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/8adee6a84e5f6f3ade437988b83ed414/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.99.0] /home/thoughtwin/.gradle/caches/transforms-3/59f19c6d35831d9d4c4d9a58176f3240/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.99.0] /home/thoughtwin/.gradle/caches/transforms-3/59f19c6d35831d9d4c4d9a58176f3240/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_database] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_database] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.2] /home/thoughtwin/.gradle/caches/transforms-3/5f49b9af9286ab6b7e429311d43049a9/transformed/jetified-firebase-database-20.0.2/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.2] /home/thoughtwin/.gradle/caches/transforms-3/5f49b9af9286ab6b7e429311d43049a9/transformed/jetified-firebase-database-20.0.2/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-25:19
+MERGED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-25:19
+MERGED from [com.facebook.react:react-native:0.66.3] /home/thoughtwin/.gradle/caches/transforms-3/a0283b13420092b849e80bf174a0356c/transformed/jetified-react-native-0.66.3/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.66.3] /home/thoughtwin/.gradle/caches/transforms-3/a0283b13420092b849e80bf174a0356c/transformed/jetified-react-native-0.66.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:20.0.2] /home/thoughtwin/.gradle/caches/transforms-3/5f49b9af9286ab6b7e429311d43049a9/transformed/jetified-firebase-database-20.0.2/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.2] /home/thoughtwin/.gradle/caches/transforms-3/5f49b9af9286ab6b7e429311d43049a9/transformed/jetified-firebase-database-20.0.2/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] /home/thoughtwin/.gradle/caches/transforms-3/daf7b45bddae2fab64f479a473f01baf/transformed/jetified-firebase-appcheck-interop-16.0.0-beta02/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] /home/thoughtwin/.gradle/caches/transforms-3/daf7b45bddae2fab64f479a473f01baf/transformed/jetified-firebase-appcheck-interop-16.0.0-beta02/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/thoughtwin/.gradle/caches/transforms-3/07a5ca694e3feaf20ec300612973ef99/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/thoughtwin/.gradle/caches/transforms-3/07a5ca694e3feaf20ec300612973ef99/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/thoughtwin/.gradle/caches/transforms-3/232adb69094c4b93f7bcf2428f836470/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/thoughtwin/.gradle/caches/transforms-3/232adb69094c4b93f7bcf2428f836470/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.facebook.soloader:soloader:0.10.1] /home/thoughtwin/.gradle/caches/transforms-3/218b8094b0283c1a4142941cff965f08/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] /home/thoughtwin/.gradle/caches/transforms-3/218b8094b0283c1a4142941cff965f08/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /home/thoughtwin/.gradle/caches/transforms-3/215ef86073f17a580d55962e9b61967d/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /home/thoughtwin/.gradle/caches/transforms-3/215ef86073f17a580d55962e9b61967d/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/thoughtwin/.gradle/caches/transforms-3/6312332a5c2e4ce7fcd84696fc65d8e8/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/thoughtwin/.gradle/caches/transforms-3/6312332a5c2e4ce7fcd84696fc65d8e8/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/thoughtwin/.gradle/caches/transforms-3/b38f15dbcc9a37e35c316393185bddbe/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/thoughtwin/.gradle/caches/transforms-3/b38f15dbcc9a37e35c316393185bddbe/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/thoughtwin/.gradle/caches/transforms-3/8ac528d141471fc71a12b248b704a330/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/thoughtwin/.gradle/caches/transforms-3/8ac528d141471fc71a12b248b704a330/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] /home/thoughtwin/.gradle/caches/transforms-3/71c799383cfa13dda3e372aa9223b078/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /home/thoughtwin/.gradle/caches/transforms-3/71c799383cfa13dda3e372aa9223b078/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/thoughtwin/.gradle/caches/transforms-3/a872c80665146ff768d00086572e496b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/thoughtwin/.gradle/caches/transforms-3/a872c80665146ff768d00086572e496b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /home/thoughtwin/.gradle/caches/transforms-3/71c799383cfa13dda3e372aa9223b078/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.firebasetrial.MainActivity
+ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml:21:23-70
+uses-sdk
+INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.99.0] /home/thoughtwin/.gradle/caches/transforms-3/59f19c6d35831d9d4c4d9a58176f3240/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.99.0] /home/thoughtwin/.gradle/caches/transforms-3/59f19c6d35831d9d4c4d9a58176f3240/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] /home/thoughtwin/.gradle/caches/transforms-3/a61f465ec61a6fb822315f5fa32dca2f/transformed/jetified-flipper-network-plugin-0.99.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] /home/thoughtwin/.gradle/caches/transforms-3/a61f465ec61a6fb822315f5fa32dca2f/transformed/jetified-flipper-network-plugin-0.99.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] /home/thoughtwin/.gradle/caches/transforms-3/2083fcca49e3a45f14cdf2ab4e6a4e38/transformed/jetified-flipper-fresco-plugin-0.99.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] /home/thoughtwin/.gradle/caches/transforms-3/2083fcca49e3a45f14cdf2ab4e6a4e38/transformed/jetified-flipper-fresco-plugin-0.99.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-firebase_database] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_database] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.66.3] /home/thoughtwin/.gradle/caches/transforms-3/a0283b13420092b849e80bf174a0356c/transformed/jetified-react-native-0.66.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.66.3] /home/thoughtwin/.gradle/caches/transforms-3/a0283b13420092b849e80bf174a0356c/transformed/jetified-react-native-0.66.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/748a0fc500bd975d4c1589d538ed337d/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/748a0fc500bd975d4c1589d538ed337d/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r250230] /home/thoughtwin/.gradle/caches/transforms-3/9d4c0e116c120588f4889941574ea042/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /home/thoughtwin/.gradle/caches/transforms-3/9d4c0e116c120588f4889941574ea042/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:20.0.2] /home/thoughtwin/.gradle/caches/transforms-3/5f49b9af9286ab6b7e429311d43049a9/transformed/jetified-firebase-database-20.0.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.0.2] /home/thoughtwin/.gradle/caches/transforms-3/5f49b9af9286ab6b7e429311d43049a9/transformed/jetified-firebase-database-20.0.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] /home/thoughtwin/.gradle/caches/transforms-3/daf7b45bddae2fab64f479a473f01baf/transformed/jetified-firebase-appcheck-interop-16.0.0-beta02/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] /home/thoughtwin/.gradle/caches/transforms-3/daf7b45bddae2fab64f479a473f01baf/transformed/jetified-firebase-appcheck-interop-16.0.0-beta02/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/thoughtwin/.gradle/caches/transforms-3/07a5ca694e3feaf20ec300612973ef99/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/thoughtwin/.gradle/caches/transforms-3/07a5ca694e3feaf20ec300612973ef99/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/thoughtwin/.gradle/caches/transforms-3/232adb69094c4b93f7bcf2428f836470/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/thoughtwin/.gradle/caches/transforms-3/232adb69094c4b93f7bcf2428f836470/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:flipper:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/b7da3da98d27fcccc2f39d7a54c7bcfc/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/b7da3da98d27fcccc2f39d7a54c7bcfc/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/fa789a0b25b63cbaf13a4b3dbc3497e3/transformed/jetified-stetho-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/fa789a0b25b63cbaf13a4b3dbc3497e3/transformed/jetified-stetho-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/be25b2997f575d83bdfae628558d4556/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/be25b2997f575d83bdfae628558d4556/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/b22698a3870b4e10f4ab6072d3c4b67d/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/b22698a3870b4e10f4ab6072d3c4b67d/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/6518e1b5124b02fb9e630bfa47c6aca4/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/6518e1b5124b02fb9e630bfa47c6aca4/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/a76ceaeaf903cbd791928677d9e27f0e/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/a76ceaeaf903cbd791928677d9e27f0e/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/ef4618c9359874d66772386631379011/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/ef4618c9359874d66772386631379011/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/3ddbbbba7125fa64a0807b1826a8c847/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/3ddbbbba7125fa64a0807b1826a8c847/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/3c681c447cb66c009c2dc25f722d8278/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/3c681c447cb66c009c2dc25f722d8278/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/54e67d912562ec5b14dbed5e2140967f/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/54e67d912562ec5b14dbed5e2140967f/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /home/thoughtwin/.gradle/caches/transforms-3/218b8094b0283c1a4142941cff965f08/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /home/thoughtwin/.gradle/caches/transforms-3/218b8094b0283c1a4142941cff965f08/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/3e5fe0d47862ed8c371fd8a4104a6c3d/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/3e5fe0d47862ed8c371fd8a4104a6c3d/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/6df4982178b52e0edf93fdb26cc68480/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/6df4982178b52e0edf93fdb26cc68480/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/e8f4f3b78139cd63149e9e9e64366c2b/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/e8f4f3b78139cd63149e9e9e64366c2b/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/3233e5e991aab73b6eb71f598e64f92b/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/3233e5e991aab73b6eb71f598e64f92b/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/thoughtwin/.gradle/caches/transforms-3/3b1833fdd1b8407bf21181eddd341ef7/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/thoughtwin/.gradle/caches/transforms-3/3b1833fdd1b8407bf21181eddd341ef7/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/thoughtwin/.gradle/caches/transforms-3/b32d22c6de2466a801c09e9c2c1dc9e6/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/thoughtwin/.gradle/caches/transforms-3/b32d22c6de2466a801c09e9c2c1dc9e6/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /home/thoughtwin/.gradle/caches/transforms-3/eefd9f3973054c8326a43ae1ae853774/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /home/thoughtwin/.gradle/caches/transforms-3/eefd9f3973054c8326a43ae1ae853774/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/83f8ac0e90e3a9ce366a12c6daa1545c/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/83f8ac0e90e3a9ce366a12c6daa1545c/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/a422f7053ff1ad782a42802eb519662d/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/a422f7053ff1ad782a42802eb519662d/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/thoughtwin/.gradle/caches/transforms-3/a2b6193331fab132bc5486ca803dad7c/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/thoughtwin/.gradle/caches/transforms-3/a2b6193331fab132bc5486ca803dad7c/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/thoughtwin/.gradle/caches/transforms-3/a91704c2ea24663850fc3eaf6aa520d5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/thoughtwin/.gradle/caches/transforms-3/a91704c2ea24663850fc3eaf6aa520d5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/ce403bda2f0f727fb063130af02a306b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/ce403bda2f0f727fb063130af02a306b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /home/thoughtwin/.gradle/caches/transforms-3/215ef86073f17a580d55962e9b61967d/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /home/thoughtwin/.gradle/caches/transforms-3/215ef86073f17a580d55962e9b61967d/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/thoughtwin/.gradle/caches/transforms-3/f16e55606662fe2bdbc3533955ee1685/transformed/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/thoughtwin/.gradle/caches/transforms-3/f16e55606662fe2bdbc3533955ee1685/transformed/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/thoughtwin/.gradle/caches/transforms-3/960554a7c2f3de5c3e4d091e076c77e9/transformed/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/thoughtwin/.gradle/caches/transforms-3/960554a7c2f3de5c3e4d091e076c77e9/transformed/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /home/thoughtwin/.gradle/caches/transforms-3/b77bb367c3a0cc3a2e37ee29b3b72b28/transformed/jetified-firebase-database-collection-18.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /home/thoughtwin/.gradle/caches/transforms-3/b77bb367c3a0cc3a2e37ee29b3b72b28/transformed/jetified-firebase-database-collection-18.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/thoughtwin/.gradle/caches/transforms-3/6312332a5c2e4ce7fcd84696fc65d8e8/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/thoughtwin/.gradle/caches/transforms-3/6312332a5c2e4ce7fcd84696fc65d8e8/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/thoughtwin/.gradle/caches/transforms-3/b38f15dbcc9a37e35c316393185bddbe/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/thoughtwin/.gradle/caches/transforms-3/b38f15dbcc9a37e35c316393185bddbe/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/thoughtwin/.gradle/caches/transforms-3/8ac528d141471fc71a12b248b704a330/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/thoughtwin/.gradle/caches/transforms-3/8ac528d141471fc71a12b248b704a330/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] /home/thoughtwin/.gradle/caches/transforms-3/06bd8d23aecd48e4fed68020882a8139/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /home/thoughtwin/.gradle/caches/transforms-3/06bd8d23aecd48e4fed68020882a8139/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /home/thoughtwin/.gradle/caches/transforms-3/c516302736c977eff4551e107b66e078/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /home/thoughtwin/.gradle/caches/transforms-3/c516302736c977eff4551e107b66e078/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/380368a94e5125f960222ce469b9a538/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/380368a94e5125f960222ce469b9a538/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/a33df2175717de33aca2d838552c3ed9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/a33df2175717de33aca2d838552c3ed9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/a015809519413651e9931cff5670b25c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/a015809519413651e9931cff5670b25c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/thoughtwin/.gradle/caches/transforms-3/e16c186123443f4bcbadb802d8f3e379/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/thoughtwin/.gradle/caches/transforms-3/e16c186123443f4bcbadb802d8f3e379/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/e1281fbf5a96d4c550042ca1151ccd63/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/e1281fbf5a96d4c550042ca1151ccd63/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /home/thoughtwin/.gradle/caches/transforms-3/71c799383cfa13dda3e372aa9223b078/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /home/thoughtwin/.gradle/caches/transforms-3/71c799383cfa13dda3e372aa9223b078/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/5a1e7fb8c6cfd5fe2ecaa08f847210e4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/5a1e7fb8c6cfd5fe2ecaa08f847210e4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/thoughtwin/.gradle/caches/transforms-3/305bb247fed4214155458624e5592ae7/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/thoughtwin/.gradle/caches/transforms-3/305bb247fed4214155458624e5592ae7/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/thoughtwin/.gradle/caches/transforms-3/3619916fe2818cd96ae75fd787a571ba/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/thoughtwin/.gradle/caches/transforms-3/3619916fe2818cd96ae75fd787a571ba/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/thoughtwin/.gradle/caches/transforms-3/bad437d8b1cae96f80f585c2c591b5f9/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/thoughtwin/.gradle/caches/transforms-3/bad437d8b1cae96f80f585c2c591b5f9/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/thoughtwin/.gradle/caches/transforms-3/27901bd9186e1d08c96cad20d04312d4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/thoughtwin/.gradle/caches/transforms-3/27901bd9186e1d08c96cad20d04312d4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/thoughtwin/.gradle/caches/transforms-3/7953d711363ae1195044031c38c27ba3/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/thoughtwin/.gradle/caches/transforms-3/7953d711363ae1195044031c38c27ba3/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/thoughtwin/.gradle/caches/transforms-3/f0fdf6efa213768573a0bd21965b640d/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/thoughtwin/.gradle/caches/transforms-3/f0fdf6efa213768573a0bd21965b640d/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/thoughtwin/.gradle/caches/transforms-3/a872c80665146ff768d00086572e496b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/thoughtwin/.gradle/caches/transforms-3/a872c80665146ff768d00086572e496b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/a5777b455809799d9dbb5e24c1aaf1a5/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/a5777b455809799d9dbb5e24c1aaf1a5/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/thoughtwin/.gradle/caches/transforms-3/8625cd31fa73afbeb5de1fc59af1127d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/thoughtwin/.gradle/caches/transforms-3/8625cd31fa73afbeb5de1fc59af1127d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/thoughtwin/.gradle/caches/transforms-3/001a9c563d6baa56f2b8662f8bcaa19b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/thoughtwin/.gradle/caches/transforms-3/001a9c563d6baa56f2b8662f8bcaa19b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/thoughtwin/.gradle/caches/transforms-3/f17b83cdbb22e59c5b93d3df9e906d8c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/thoughtwin/.gradle/caches/transforms-3/f17b83cdbb22e59c5b93d3df9e906d8c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/0676611d8f83b88c3a97af50102e5dc3/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /home/thoughtwin/.gradle/caches/transforms-3/0676611d8f83b88c3a97af50102e5dc3/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/8adee6a84e5f6f3ade437988b83ed414/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/thoughtwin/.gradle/caches/transforms-3/8adee6a84e5f6f3ade437988b83ed414/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml:11:9-86
+	android:name
+		ADDED from /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.99.0] /home/thoughtwin/.gradle/caches/transforms-3/59f19c6d35831d9d4c4d9a58176f3240/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.99.0] /home/thoughtwin/.gradle/caches/transforms-3/59f19c6d35831d9d4c4d9a58176f3240/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_database] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from [:react-native-firebase_database] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_database] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.2] /home/thoughtwin/.gradle/caches/transforms-3/5f49b9af9286ab6b7e429311d43049a9/transformed/jetified-firebase-database-20.0.2/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.2] /home/thoughtwin/.gradle/caches/transforms-3/5f49b9af9286ab6b7e429311d43049a9/transformed/jetified-firebase-database-20.0.2/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [:react-native-firebase_database] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-76
+meta-data#app_data_collection_default_enabled
+ADDED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:36
+	android:value
+		ADDED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-33
+	android:name
+		ADDED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-18:19
+MERGED from [com.google.firebase:firebase-database:20.0.2] /home/thoughtwin/.gradle/caches/transforms-3/5f49b9af9286ab6b7e429311d43049a9/transformed/jetified-firebase-database-20.0.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.0.2] /home/thoughtwin/.gradle/caches/transforms-3/5f49b9af9286ab6b7e429311d43049a9/transformed/jetified-firebase-database-20.0.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/thoughtwin/.gradle/caches/transforms-3/232adb69094c4b93f7bcf2428f836470/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/thoughtwin/.gradle/caches/transforms-3/232adb69094c4b93f7bcf2428f836470/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:20.0.2] /home/thoughtwin/.gradle/caches/transforms-3/5f49b9af9286ab6b7e429311d43049a9/transformed/jetified-firebase-database-20.0.2/AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/thoughtwin/.gradle/caches/transforms-3/232adb69094c4b93f7bcf2428f836470/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/thoughtwin/.gradle/caches/transforms-3/232adb69094c4b93f7bcf2428f836470/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:18-89
+meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-120
+provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
+ADDED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-24:38
+	android:authorities
+		ADDED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-86
+	android:exported
+		ADDED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-37
+	android:initOrder
+		ADDED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-35
+	android:name
+		ADDED from [:react-native-firebase_app] /home/thoughtwin/Documents/React Native/Firebase/FirebaseTrial/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-88
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.0.2] /home/thoughtwin/.gradle/caches/transforms-3/5f49b9af9286ab6b7e429311d43049a9/transformed/jetified-firebase-database-20.0.2/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.0.2] /home/thoughtwin/.gradle/caches/transforms-3/5f49b9af9286ab6b7e429311d43049a9/transformed/jetified-firebase-database-20.0.2/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.2] /home/thoughtwin/.gradle/caches/transforms-3/5f49b9af9286ab6b7e429311d43049a9/transformed/jetified-firebase-database-20.0.2/AndroidManifest.xml:33:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] /home/thoughtwin/.gradle/caches/transforms-3/232adb69094c4b93f7bcf2428f836470/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/thoughtwin/.gradle/caches/transforms-3/232adb69094c4b93f7bcf2428f836470/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/thoughtwin/.gradle/caches/transforms-3/232adb69094c4b93f7bcf2428f836470/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/thoughtwin/.gradle/caches/transforms-3/232adb69094c4b93f7bcf2428f836470/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/thoughtwin/.gradle/caches/transforms-3/232adb69094c4b93f7bcf2428f836470/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/thoughtwin/.gradle/caches/transforms-3/232adb69094c4b93f7bcf2428f836470/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/thoughtwin/.gradle/caches/transforms-3/215ef86073f17a580d55962e9b61967d/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/thoughtwin/.gradle/caches/transforms-3/215ef86073f17a580d55962e9b61967d/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/thoughtwin/.gradle/caches/transforms-3/215ef86073f17a580d55962e9b61967d/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/thoughtwin/.gradle/caches/transforms-3/215ef86073f17a580d55962e9b61967d/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/thoughtwin/.gradle/caches/transforms-3/215ef86073f17a580d55962e9b61967d/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/thoughtwin/.gradle/caches/transforms-3/215ef86073f17a580d55962e9b61967d/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/thoughtwin/.gradle/caches/transforms-3/215ef86073f17a580d55962e9b61967d/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/thoughtwin/.gradle/caches/transforms-3/215ef86073f17a580d55962e9b61967d/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/thoughtwin/.gradle/caches/transforms-3/215ef86073f17a580d55962e9b61967d/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/thoughtwin/.gradle/caches/transforms-3/215ef86073f17a580d55962e9b61967d/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] /home/thoughtwin/.gradle/caches/transforms-3/6312332a5c2e4ce7fcd84696fc65d8e8/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /home/thoughtwin/.gradle/caches/transforms-3/6312332a5c2e4ce7fcd84696fc65d8e8/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /home/thoughtwin/.gradle/caches/transforms-3/6312332a5c2e4ce7fcd84696fc65d8e8/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /home/thoughtwin/.gradle/caches/transforms-3/6312332a5c2e4ce7fcd84696fc65d8e8/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] /home/thoughtwin/.gradle/caches/transforms-3/8ac528d141471fc71a12b248b704a330/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /home/thoughtwin/.gradle/caches/transforms-3/8ac528d141471fc71a12b248b704a330/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /home/thoughtwin/.gradle/caches/transforms-3/8ac528d141471fc71a12b248b704a330/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58

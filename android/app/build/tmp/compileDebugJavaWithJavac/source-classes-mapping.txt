@@ -1,0 +1,14 @@
+com/firebasetrial/MainActivity.java
+ com.firebasetrial.MainActivity
+com/firebasetrial/BuildConfig.java
+ com.firebasetrial.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/firebasetrial/MainApplication.java
+ com.firebasetrial.MainApplication
+ com.firebasetrial.MainApplication$1
+com/firebasetrial/ReactNativeFlipper.java
+ com.firebasetrial.ReactNativeFlipper
+ com.firebasetrial.ReactNativeFlipper$1
+ com.firebasetrial.ReactNativeFlipper$2
+ com.firebasetrial.ReactNativeFlipper$2$1
